@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MesonSDK",
+        "repositoryURL": "https://github.com/AnkitRathi7/MesonSDK",
+        "state": {
+          "branch": null,
+          "revision": "0fa2126fa5de95d6342bda5d556ea6cac72a647d",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "UnityAds",
+        "repositoryURL": "https://github.com/AnkitRathi7/UnityAds",
+        "state": {
+          "branch": null,
+          "revision": "3fa5f9b0ff6dcc75e667ebff637055d382e997ac",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
